@@ -24,8 +24,7 @@ You can find the installation guides once you click on them:
 2- install the following R-libraries:
   - [knitr](https://cran.r-project.org/package=knitr)
   - [rmarkdown](https://cran.r-project.org/package=rmarkdown)
-  - [dplyr](https://cran.r-project.org/package=dplyr)
-  - [ggplot2](https://cran.r-project.org/package=ggplot2)
+  - [tidyverse](https://cran.r-project.org/package=tidyverse)
   - [pheatmap](https://cran.r-project.org/package=pheatmap)
   - [dendextend](https://cran.r-project.org/web/package=dendextend)
   - [DESeq2](https://bioconductor.org/packages/devel/bioc/html/DESeq2.html)
