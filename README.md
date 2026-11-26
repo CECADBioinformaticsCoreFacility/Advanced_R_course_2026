@@ -71,7 +71,7 @@ __Day 1:__
 [*Session 1 :: Understanding & preparing RNA-seq raw counts*](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2026/Slides/Session1-preparation.html)
 - QUIZ
 
-[*Session 2 :: Differential Expression Analysis (Part 1)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2026/Session2-differential_expression.html)
+[*Session 2 :: Differential Expression Analysis (Part 1)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2026/Slides/Session2-DESeq2_1.html)
 - QUIZ
 - Practice
   
@@ -82,7 +82,7 @@ __Day 1:__
 
 __Day 2:__
 
-[*Session 4 :: Differential Expression Analysis (Part 3)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2026/Session4_DEA3.html)
+[*Session 4 :: Differential Expression Analysis (Part 3)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2026/Slides/Session2-DESeq2_3.html)
 - QUIZ
 - Practice
 
