@@ -75,7 +75,7 @@ __Day 1:__
 - QUIZ
 - Practice
   
-[*Session 3 :: Differential Expression Analysis (Part 2) [Design-to-Discovery: RNA-seq Differential Expression with Negative Binomial GLMs]* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2026/Slides/Session3_Design-to-Discovery_ RNA-seq-Differential-Expression-with-Negative-Binomial-GLMs.html)
+[*Session 3 :: Differential Expression Analysis (Part 2) [Design-to-Discovery: RNA-seq Differential Expression with Negative Binomial GLMs]* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2026/Slides/Session3_Design-to-Discovery_RNA-seq-Differential-Expression-with-Negative-Binomial-GLMs.html)
 - QUIZ
 - Practice
 
