@@ -65,7 +65,7 @@ We strongly recommend that you try to familiarize yourself with R and RStudio by
 
 __Day 1:__
 
-[*Session 1 :: Understanding & preparing RNA-seq raw counts*](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2026/Session1-preparation.html)
+[*Session 1 :: Understanding & preparing RNA-seq raw counts*](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2026/Slides/Session1-preparation.html)
 - QUIZ
 
 [*Session 2 :: Differential Expression Analysis (Part 1)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2026/Session2-differential_expression.html)
