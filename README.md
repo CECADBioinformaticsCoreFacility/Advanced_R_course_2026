@@ -39,9 +39,7 @@ if (!require("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
 
 BiocManager::install(c("DESeq2","clusterProfiler"))
-
 ```
-
 
 3- Have a GitHub account.
 
@@ -59,6 +57,11 @@ If you encounter any issues during the installation process, please:
 ### Practice Before the Course
 
 We strongly recommend that you try to familiarize yourself with R and RStudio by following some basic tutorials or trying out simple exercises. This will help you hit the ground running when the course starts.
+
+### Download objects:
+https://uni-koeln.sciebo.de/s/QKScDsP35Sjo75S
+password: given_in_the_course
+
 
 ## Course Content 
 ---------------
