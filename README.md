@@ -88,7 +88,7 @@ __Day 2:__
 
 [*Session 5 :: Over-Representation Analysis (ORA)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2026/Slides/Session5-ORA.html)
 - QUIZ
-- Practice
+- [Practice](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2026/Exercise/Session5-Exercise.html)
 
 [*Session 6 :: Gene Set Enrichment Analysis (GSEA)* ](https://cecadbioinformaticscorefacility.github.io/Advanced_R_course_2026/Slides/Session6-GSEA.html)
 - QUIZ
